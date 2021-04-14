@@ -44,5 +44,17 @@ namespace SinglyLinkedLists
                 currentNode = currentNode.next;
             }
         }
+
+        public bool Contains(int value){
+            Node currentNode = head;
+            bool contains = false;
+            while (currentNode!=null)
+            {
+                if(currentNode.data == value)
+                    contains = true;
+                currentNode = currentNode.next;
+            }
+            return contains;
+        }
     }
 }

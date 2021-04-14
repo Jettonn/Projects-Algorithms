@@ -15,6 +15,9 @@ namespace SinglyLinkedLists
             Console.WriteLine(singleLinkedLists.Front());
             singleLinkedLists.RemoveFront();
             singleLinkedLists.PrintAllNodes();
+            Console.WriteLine(singleLinkedLists.Contains(2));
+            Console.WriteLine(singleLinkedLists.Contains(4));
+
         }
     }
 }
