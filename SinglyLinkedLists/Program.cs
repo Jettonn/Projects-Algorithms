@@ -19,7 +19,7 @@ namespace SinglyLinkedLists
             Console.WriteLine(singleLinkedLists.Contains(2));
             Console.WriteLine(singleLinkedLists.Contains(4));
             Console.WriteLine(singleLinkedLists.Length());
-
+            Console.WriteLine(singleLinkedLists.Display());
         }
     }
 }

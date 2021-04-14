@@ -66,5 +66,16 @@ namespace SinglyLinkedLists
             }
             return count;
         }
+
+        public string Display(){
+            Node currentNode = head;
+            string nodes = "";
+            while (currentNode!=null)
+            {
+                nodes += currentNode.data.ToString() + " ";
+                currentNode = currentNode.next;
+            }
+            return nodes;
+        }
     }
 }
