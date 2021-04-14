@@ -56,5 +56,15 @@ namespace SinglyLinkedLists
             }
             return contains;
         }
+
+        public int Length(){
+            Node currentNode = head;
+            int count = 0;
+            while(currentNode!=null){
+                count++;
+                currentNode = currentNode.next;
+            }
+            return count;
+        }
     }
 }

@@ -13,10 +13,12 @@ namespace SinglyLinkedLists
             singleLinkedLists.AddFront(4);
             singleLinkedLists.PrintAllNodes();
             Console.WriteLine(singleLinkedLists.Front());
+            Console.WriteLine("-------------------");
             singleLinkedLists.RemoveFront();
             singleLinkedLists.PrintAllNodes();
             Console.WriteLine(singleLinkedLists.Contains(2));
             Console.WriteLine(singleLinkedLists.Contains(4));
+            Console.WriteLine(singleLinkedLists.Length());
 
         }
     }
