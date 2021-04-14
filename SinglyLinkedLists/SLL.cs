@@ -77,5 +77,42 @@ namespace SinglyLinkedLists
             }
             return nodes;
         }
+
+        public int Max(){
+            Node currentNode = head;
+            int max = currentNode.data;
+             while (currentNode!=null)
+            {
+                if(max<currentNode.data)
+                    max = currentNode.data;
+                currentNode = currentNode.next;
+            }
+            return max;
+        }
+
+        public int Min(){
+            Node currentNode = head;
+            int min = currentNode.data;
+             while (currentNode!=null)
+            {
+                if(min>currentNode.data)
+                    min = currentNode.data;
+                currentNode = currentNode.next;
+            }
+            return min;
+        }
+
+        public double Average(){
+            Node currentNode = head;
+            int sum = 0;
+            int count = 0;
+             while (currentNode!=null)
+            {
+                sum+=currentNode.data;
+                count++;
+                currentNode = currentNode.next;
+            }
+            return (double)sum/count;
+        }
     }
 }
