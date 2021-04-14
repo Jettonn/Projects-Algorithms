@@ -1,0 +1,16 @@
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\obj\Debug\net5.0\SinglyLinkedLists.csprojAssemblyReference.cache
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\obj\Debug\net5.0\SinglyLinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\obj\Debug\net5.0\SinglyLinkedLists.AssemblyInfoInputs.cache
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\obj\Debug\net5.0\SinglyLinkedLists.AssemblyInfo.cs
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\obj\Debug\net5.0\SinglyLinkedLists.csproj.CoreCompileInputs.cache
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\bin\Debug\net5.0\SinglyLinkedLists.exe
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\bin\Debug\net5.0\SinglyLinkedLists.deps.json
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\bin\Debug\net5.0\SinglyLinkedLists.runtimeconfig.json
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\bin\Debug\net5.0\SinglyLinkedLists.runtimeconfig.dev.json
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\bin\Debug\net5.0\SinglyLinkedLists.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\bin\Debug\net5.0\ref\SinglyLinkedLists.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\bin\Debug\net5.0\SinglyLinkedLists.pdb
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\obj\Debug\net5.0\SinglyLinkedLists.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\obj\Debug\net5.0\ref\SinglyLinkedLists.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\obj\Debug\net5.0\SinglyLinkedLists.pdb
+D:\Jeton\Gjirafa#\Projects & Algorithms\SinglyLinkedLists\obj\Debug\net5.0\SinglyLinkedLists.genruntimeconfig.cache
