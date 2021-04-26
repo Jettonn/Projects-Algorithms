@@ -1,0 +1,16 @@
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\obj\Debug\net5.0\RecursionToDo3.csprojAssemblyReference.cache
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\obj\Debug\net5.0\RecursionToDo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\obj\Debug\net5.0\RecursionToDo3.AssemblyInfoInputs.cache
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\obj\Debug\net5.0\RecursionToDo3.AssemblyInfo.cs
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\obj\Debug\net5.0\RecursionToDo3.csproj.CoreCompileInputs.cache
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\bin\Debug\net5.0\RecursionToDo3.exe
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\bin\Debug\net5.0\RecursionToDo3.deps.json
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\bin\Debug\net5.0\RecursionToDo3.runtimeconfig.json
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\bin\Debug\net5.0\RecursionToDo3.runtimeconfig.dev.json
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\bin\Debug\net5.0\RecursionToDo3.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\bin\Debug\net5.0\ref\RecursionToDo3.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\bin\Debug\net5.0\RecursionToDo3.pdb
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\obj\Debug\net5.0\RecursionToDo3.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\obj\Debug\net5.0\ref\RecursionToDo3.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\obj\Debug\net5.0\RecursionToDo3.pdb
+D:\Jeton\Gjirafa#\Projects & Algorithms\RecursionToDo3\obj\Debug\net5.0\RecursionToDo3.genruntimeconfig.cache
