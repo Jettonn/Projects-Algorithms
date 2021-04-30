@@ -1,0 +1,16 @@
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\obj\Debug\net5.0\TreesToDo1.csprojAssemblyReference.cache
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\obj\Debug\net5.0\TreesToDo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\obj\Debug\net5.0\TreesToDo1.AssemblyInfoInputs.cache
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\obj\Debug\net5.0\TreesToDo1.AssemblyInfo.cs
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\obj\Debug\net5.0\TreesToDo1.csproj.CoreCompileInputs.cache
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\bin\Debug\net5.0\TreesToDo1.exe
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\bin\Debug\net5.0\TreesToDo1.deps.json
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\bin\Debug\net5.0\TreesToDo1.runtimeconfig.json
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\bin\Debug\net5.0\TreesToDo1.runtimeconfig.dev.json
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\bin\Debug\net5.0\TreesToDo1.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\bin\Debug\net5.0\ref\TreesToDo1.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\bin\Debug\net5.0\TreesToDo1.pdb
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\obj\Debug\net5.0\TreesToDo1.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\obj\Debug\net5.0\ref\TreesToDo1.dll
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\obj\Debug\net5.0\TreesToDo1.pdb
+D:\Jeton\Gjirafa#\Projects & Algorithms\TreesToDo1\obj\Debug\net5.0\TreesToDo1.genruntimeconfig.cache
